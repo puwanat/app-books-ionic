@@ -9,7 +9,7 @@
     "preface" : "Percy Jackson and the Olympians",
     "genre_s" : "",
     "pages_i" : 20,
-    "image" : "./assets/img/book-001-00001.jpg",
+    "image" : "https://raw.githubusercontent.com/puwanat/app-books-ionic/master/img/book-001-00001.jpg",
     "src": "https://raw.githubusercontent.com/puwanat/app-books-ionic/master/bookpdf/book-001.pdf",
     "url": "lApYQ052buQ"
   }, {
@@ -21,7 +21,7 @@
     "preface" : "Percy Jackson and the Olympians",
     "genre_s" : "reference",
     "pages_i" : 25,
-    "image" : "./assets/img/book-001-00002.jpg",
+    "image" : "https://raw.githubusercontent.com/puwanat/app-books-ionic/master/img/book-001-00002.jpg",
     "src": "https://raw.githubusercontent.com/puwanat/app-books-ionic/master/bookpdf/book-002.pdf"
   }, {
     "id" : 2,
@@ -32,7 +32,7 @@
     "preface" : "Percy Jackson and the Olympians",
     "genre_s" : "fantasy",
     "pages_i" : 15,
-    "image" : "./assets/img/book-001-00003.jpg",
+    "image" : "https://raw.githubusercontent.com/puwanat/app-books-ionic/master/img/book-001-00003.jpg",
     "src": "https://raw.githubusercontent.com/puwanat/app-books-ionic/master/bookpdf/book-001.pdf"
   }, {
     "id" : 3,
@@ -43,7 +43,7 @@
     "preface" : "Percy Jackson and the Olympians",
     "genre_s" : "fantasy",
     "pages_i" : 20,
-    "image" : "./assets/img/book-001-00004.jpg",
+    "image" : "https://raw.githubusercontent.com/puwanat/app-books-ionic/master/img/book-001-00004.jpg",
     "src": "https://raw.githubusercontent.com/puwanat/app-books-ionic/master/bookpdf/book-002.pdf"
   }, {
     "id" : 4,
@@ -54,7 +54,7 @@
     "preface" : "Percy Jackson and the Olympians",
     "genre_s" : "",
     "pages_i" : 20,
-    "image" : "./assets/img/book-001-00005.jpg",
+    "image" : "https://raw.githubusercontent.com/puwanat/app-books-ionic/master/img/book-001-00005.jpg",
     "src": "https://raw.githubusercontent.com/puwanat/app-books-ionic/master/bookpdf/book-002.pdf"
   }, {
     "id" : 5,
@@ -65,7 +65,7 @@
     "preface" : "Percy Jackson and the Olympians",
     "genre_s" : "",
     "pages_i" : 15,
-    "image" : "./assets/img/book-001-00006.jpg",
+    "image" : "https://raw.githubusercontent.com/puwanat/app-books-ionic/master/img/book-001-00006.jpg",
     "src": "https://raw.githubusercontent.com/puwanat/app-books-ionic/master/bookpdf/book-002.pdf"
   }
   ],

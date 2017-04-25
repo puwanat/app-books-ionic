@@ -10,7 +10,7 @@
     "genre_s" : "",
     "pages_i" : 20,
     "image" : "./assets/img/book-001-00001.jpg",
-    "src": "http://128.1.99.132/app/ebooks/bookpdf/book-001.pdf",
+    "src": "https://github.com/puwanat/app-books-ionic/raw/master/bookpdf/book-001.pdf",
     "url": "lApYQ052buQ"
   }, {
     "id" : 1,
@@ -22,7 +22,7 @@
     "genre_s" : "reference",
     "pages_i" : 25,
     "image" : "./assets/img/book-001-00002.jpg",
-    "src": "http://128.1.99.132/app/ebooks/bookpdf/book-002.pdf"
+    "src": "https://github.com/puwanat/app-books-ionic/raw/master/bookpdf/book-002.pdf"
   }, {
     "id" : 2,
     "id_book" : "book00100003",
@@ -44,7 +44,7 @@
     "genre_s" : "fantasy",
     "pages_i" : 20,
     "image" : "./assets/img/book-001-00004.jpg",
-    "src": "http://128.1.99.132/app/ebooks/bookpdf/book-001.pdf"
+    "src": "https://github.com/puwanat/app-books-ionic/raw/master/bookpdf/book-002.pdf"
   }, {
     "id" : 4,
     "id_book" : "book00100005",
@@ -55,7 +55,7 @@
     "genre_s" : "",
     "pages_i" : 20,
     "image" : "./assets/img/book-001-00005.jpg",
-    "src": "http://128.1.99.132/app/ebooks/bookpdf/book-001.pdf"
+    "src": "https://github.com/puwanat/app-books-ionic/raw/master/bookpdf/book-002.pdf"
   }, {
     "id" : 5,
     "id_book" : "book00100006",
@@ -66,7 +66,7 @@
     "genre_s" : "",
     "pages_i" : 15,
     "image" : "./assets/img/book-001-00006.jpg",
-    "src": "http://128.1.99.132/app/ebooks/bookpdf/book-001.pdf"
+    "src": "https://github.com/puwanat/app-books-ionic/raw/master/bookpdf/book-002.pdf"
   }
   ],
 

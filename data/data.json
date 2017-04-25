@@ -1,0 +1,79 @@
+{
+
+"books": [{
+    "id" : 0,
+    "id_book" : "book00100001",
+    "cat" : "periodical",
+    "name" : "Book Launch",
+    "author" : "Rick Riordan",
+    "preface" : "Percy Jackson and the Olympians",
+    "genre_s" : "",
+    "pages_i" : 20,
+    "image" : "./assets/img/book-001-00001.jpg",
+    "src": "http://128.1.99.132/app/ebooks/bookpdf/book-001.pdf",
+    "url": "lApYQ052buQ"
+  }, {
+    "id" : 1,
+    "id_book" : "book00100002",
+    "cat" : "book",
+    "name" : "สร้างลูก รักการอ่าน",
+    "author" : "Rick Riordan",
+    "preface" : "Percy Jackson and the Olympians",
+    "genre_s" : "reference",
+    "pages_i" : 25,
+    "image" : "./assets/img/book-001-00002.jpg",
+    "src": "http://128.1.99.132/app/ebooks/bookpdf/book-002.pdf"
+  }, {
+    "id" : 2,
+    "id_book" : "book00100003",
+    "cat" : "book",
+    "name" : "การ์ตูนไอ้แป้น3",
+    "author" : "Jostein Gaarder",
+    "preface" : "Percy Jackson and the Olympians",
+    "genre_s" : "fantasy",
+    "pages_i" : 15,
+    "image" : "./assets/img/book-001-00003.jpg",
+    "src": "https://vadimdez.github.io/ng2-pdf-viewer/pdf-test.pdf"
+  }, {
+    "id" : 3,
+    "id_book" : "book00100004",
+    "cat" : "book",
+    "name" : "ทำไงดี! อยากจัดการเวลาให้อยู่หมัด",
+    "author" : "Rick Riordan",
+    "preface" : "Percy Jackson and the Olympians",
+    "genre_s" : "fantasy",
+    "pages_i" : 20,
+    "image" : "./assets/img/book-001-00004.jpg",
+    "src": "http://128.1.99.132/app/ebooks/bookpdf/book-001.pdf"
+  }, {
+    "id" : 4,
+    "id_book" : "book00100005",
+    "cat" : "magazine",
+    "name" : "นักวิทยาศาสตร์ตัวน้อย",
+    "author" : "Rick Riordan",
+    "preface" : "Percy Jackson and the Olympians",
+    "genre_s" : "",
+    "pages_i" : 20,
+    "image" : "./assets/img/book-001-00005.jpg",
+    "src": "http://128.1.99.132/app/ebooks/bookpdf/book-001.pdf"
+  }, {
+    "id" : 5,
+    "id_book" : "book00100006",
+    "cat" : "newspaper",
+    "name" : "เตรียมสอบ ป.4",
+    "author" : "Jostein Gaarder",
+    "preface" : "Percy Jackson and the Olympians",
+    "genre_s" : "",
+    "pages_i" : 15,
+    "image" : "./assets/img/book-001-00006.jpg",
+    "src": "http://128.1.99.132/app/ebooks/bookpdf/book-001.pdf"
+  }
+  ],
+
+"youtube": [{
+    "name": "music",
+    "url": "https://www.youtube.com/embed/lApYQ052buQ"
+  }
+  ]
+
+}
